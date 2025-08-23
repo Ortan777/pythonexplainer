@@ -16,7 +16,8 @@
 ---
 
 ##  Demo
-pythonexplainer-dxmm-git-main-ayush-shettys-projects-483bf23e.vercel.app
+
+pythonexplainer-dxmm-gbhvz8jb9-ayush-shettys-projects-483bf23e.vercel.app
 
 
 ---
